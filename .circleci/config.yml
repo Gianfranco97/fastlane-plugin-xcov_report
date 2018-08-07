@@ -55,7 +55,7 @@ references:
 
   release: &release
     run:
-      name: Publish new version
+      name: Create release
       command: source ci/scripts/release.sh
 
 jobs:

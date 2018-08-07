@@ -7,12 +7,11 @@
     "test": "bundle exec rake",
     "release": "./node_modules/.bin/standard-version -t ''",
     "gh-pages-changelog": "yarn gh-pages --dist ./ --src '{./C*.md,CHANGELOG.md}' --dest ./ --add",
-    "conventional-github-releaser": "./node_modules/.bin/conventional-github-releaser",
-    "github-releaser": "./node_modules/.bin/github-release"
+    "conventional-github-releaser": "./node_modules/.bin/conventional-github-releaser"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TECLIB/fastlane-plugin-xcov_report"
+    "url": "https://github.com/Gianfranco97/fastlane-plugin-xcov_report"
   },
   "keywords": [
     "fastlane-plugin",
@@ -26,11 +25,10 @@
   "license": "MIT",
   "social_media_url": "https://twitter.com/FlyveMDM",
   "bugs": {
-    "url": "https://github.com/TECLIB/fastlane-plugin-xcov_report/issues"
+    "url": "https://github.com/Gianfranco97/fastlane-plugin-xcov_report/issues"
   },
   "devDependencies": {
     "conventional-github-releaser": "^3.1.2",
-    "node-github-release": "^0.2.1",
     "gh-pages": "^1.2.0",
     "standard-version": "^4.4.0"
   }
