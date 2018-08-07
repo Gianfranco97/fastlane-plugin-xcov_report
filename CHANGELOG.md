@@ -14,5 +14,5 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* **json-report:** receive a personalized route for the json report ([7e5d264](https://github.com/Gianfranco97/fastlane-plugin-xcov_report/commit/7e5d264))
+* **json-report:** receive a personalized route for the json report ([cd3234e](https://github.com/Gianfranco97/fastlane-plugin-xcov_report/commit/cd3234e))
 * **xcov_report:** initial commit ([2cbf003](https://github.com/Gianfranco97/fastlane-plugin-xcov_report/commit/2cbf003))
